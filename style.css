@@ -1,0 +1,123 @@
+	body{
+
+	  background: red; /* For browsers that do not support gradients */
+	  background: -webkit-linear-gradient(left,pink,orange,yellow,green,blue,indigo,violet);
+	  background: -o-linear-gradient(left,pink,orange,yellow,green,blue,indigo,violet);
+	  background: -moz-linear-gradient(left,pink,orange,yellow,green,blue,indigo,violet);
+	  background: linear-gradient(to right, pink,orange,yellow,green,blue,indigo,violet);
+	  margin: 0em;
+	  font-family: 'Indie Flower', cursive;
+
+		
+
+	}
+
+/*	#firstCol{
+		width: 23%;
+		font-size: 0.5em;
+		float: left;
+
+	}*/
+/*	#secondCol{
+		width: 23%;
+		font-size: 0.5em;
+		float: left;
+		margin-left: 2%;
+	}
+	#thirdCol{
+		width: 23%;
+		font-size: 0.5em;
+		float: left;
+		margin-left: 2%;
+	}
+	#fourthCol{
+		width: 23%;
+		font-size: 0.5em;
+		margin-left: 2%;
+		float: left;
+	}
+	#fifthCol{
+		width: 23%;
+		font-size: 0.5em;
+		margin-left: 2%;
+	}*/
+	.firstCol{
+		width: 23%;
+		font-size: 0.5em;
+		margin-left: 2%;
+		font-family: 'Indie Flower', cursive;
+		
+	}
+	.secondCol{
+		width: 21%;
+		font-size: 0.5em;
+		margin-left: 3%;
+		float: left;
+		font-family: 'Indie Flower', cursive;
+	}
+
+
+	svg.firstSvg{
+		fill:red;
+		margin-left: 15%;
+	}
+	svg.secondSvg{
+		fill:pink;
+		margin-left: 15%;	
+	}
+	svg.thirdSvg{
+		fill:green;
+		margin-left: 15%;	
+	}
+	svg.fourthSvg{
+		fill:gold;
+		margin-left: 15%;
+	}
+	svg.fifthSvg{
+		fill:brown;
+		margin-left: 15%;
+	}
+	svg.sixthSvg{
+		fill:black;
+		margin-left: 15%;
+	}
+	svg.seventhSvg{
+		fill:aqua;
+		margin-left: 15%;
+	}
+	svg.eighthSvg{
+		fill:white;
+		margin-left: 15%;
+	}
+
+
+
+	p{
+		color: black;
+		margin: 0em;
+		font-size: 2em;
+		font-family: 'Indie Flower', cursive;
+		/*color: white;*/
+	}
+
+
+	h1{
+		text-align: center;
+		color: black;
+		font-family: 'Indie Flower', cursive;
+	}
+
+	svg.elements{
+		 
+		 fill: currentColor;
+		 font-family: 'Indie Flower', cursive;
+		
+		
+	}
+	
+
+
+
+
+
+
